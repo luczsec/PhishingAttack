@@ -49,10 +49,12 @@ Página de login do Yahoo
 Página de login do Yandex
 ✰ INSTALAÇÃO ✰
 Para instalar o Zphisher, siga os comandos abaixo:
-
-$ apt update
+"$ apt update
 $ apt install git php openssh curl -y
 $ git clone https://github.com/htr-tech/zphisher
 $ cd zphisher
 $ chmod +x zphisher.sh
-$ bash zphisher.sh
+$ bash zphisher.sh"
+
+
+
